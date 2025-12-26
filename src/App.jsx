@@ -19,10 +19,10 @@ function App() {
       {/* <Example/> */}
       {/* <Form /> */}
       {/* <Form2 /> */}
-      {/* <List /> */}
+      <List />
       {/* <Userapi /> */}
       {/* <Toggle /> */}
-      <Translate />
+      {/* <Translate /> */}
       {/* <Navigation /> */}
     </>
   )
